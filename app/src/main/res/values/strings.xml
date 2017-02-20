@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_a">A</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="quan_ly_vb_den">QUAN LY VAN BAN DEN</string>
+    <string name="hello_fragment_b">Hello fragment B</string>
+    <string name="hello_fragment_c">Hello fragment C</string>
+    <string name="hello_fragment_d">Hello fragment D</string>
+
+    <string-array name="loai_vb">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+
+    <string name="date_label_set">Press the button to set the date</string>
+    <string name="date_button_set">Set Date</string>
+    <string name="date_view_set">The Date is: </string>
+    <string name="date_selected"></string>
+
+    <string name="chk_ios">chk ios</string>
+    <string name="hint_STT">So Thu Tu</string>
+    <string name="hint_so_vb_den">So Van Ban Den</string>
+
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
